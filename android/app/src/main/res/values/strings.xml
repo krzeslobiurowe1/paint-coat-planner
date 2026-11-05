@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paint Coat Planner</string>
+
+    <string name="splash_title_top">PAINT COAT</string>
+    <string name="splash_title_bottom">PLANNER</string>
+    <string name="splash_tagline">LITRES, CANS AND HOURS</string>
+
+    <string name="cta_start">START PLANNING</string>
+    <string name="cta_add_wall">ADD WALL</string>
+    <string name="cta_continue">CONTINUE</string>
+    <string name="cta_calculate">CALCULATE</string>
+    <string name="cta_play_again">PLAN AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_add">ADD</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_delete">DELETE</string>
+    <string name="cta_reset">RESET DEFAULTS</string>
+
+    <string name="title_coverage">Coverage Setup</string>
+    <string name="title_can_summary">Can Summary</string>
+    <string name="title_house_total">House Total</string>
+    <string name="title_settings">Planner Settings</string>
+
+    <string name="menu_subtitle">ESTIMATE PAINT BEFORE YOU BUY</string>
+
+    <string name="label_house_total">HOUSE TOTAL</string>
+    <string name="label_saved_rooms">SAVED ROOMS</string>
+    <string name="label_net_area">NET AREA</string>
+    <string name="label_walls">WALLS</string>
+    <string name="label_openings">OPENINGS</string>
+    <string name="label_hours">HOURS</string>
+    <string name="label_ceiling_area">CEILING</string>
+    <string name="label_trim">INCLUDE TRIM</string>
+    <string name="label_ceiling">INCLUDE CEILING</string>
+    <string name="label_ceiling_length">CEILING LENGTH</string>
+    <string name="label_ceiling_width">CEILING WIDTH</string>
+    <string name="label_coverage">COVERAGE PER LITRE</string>
+    <string name="label_coats">COATS</string>
+    <string name="label_texture">SURFACE TEXTURE</string>
+    <string name="label_primer">ADD PRIMER COAT</string>
+    <string name="label_units">UNITS</string>
+    <string name="label_theme">THEME</string>
+    <string name="label_default_coverage">DEFAULT COVERAGE</string>
+    <string name="label_default_coats">DEFAULT COATS</string>
+    <string name="label_default_texture">DEFAULT TEXTURE</string>
+    <string name="label_primer_coverage">PRIMER COVERAGE</string>
+    <string name="label_wall_paint">WALLS</string>
+    <string name="label_primer_paint">PRIMER</string>
+    <string name="label_trim_paint">TRIM</string>
+    <string name="label_wall_width">WALL WIDTH</string>
+    <string name="label_wall_height">WALL HEIGHT</string>
+    <string name="label_shopping_list">SHOPPING LIST</string>
+    <string name="label_breakdown">BREAKDOWN</string>
+    <string name="label_room_list">ROOMS</string>
+    <string name="label_opening_presets">TAP TO SUBTRACT AN OPENING</string>
+
+    <string name="texture_smooth">SMOOTH</string>
+    <string name="texture_light">LIGHT</string>
+    <string name="texture_rough">ROUGH</string>
+    <string name="texture_brick">BRICK</string>
+
+    <string name="units_metric">METRIC</string>
+    <string name="units_imperial">IMPERIAL</string>
+
+    <string name="theme_light">LIGHT</string>
+    <string name="theme_dark">DARK</string>
+    <string name="theme_system">SYSTEM</string>
+
+    <string name="preset_door">DOOR</string>
+    <string name="preset_window">WINDOW</string>
+    <string name="preset_small_window">SMALL WINDOW</string>
+    <string name="preset_patio">PATIO</string>
+
+    <string name="empty_rooms_title">NO ROOMS YET</string>
+    <string name="empty_rooms_body">Add your first room to see litres and can sizes.</string>
+    <string name="empty_walls_title">NO WALLS YET</string>
+    <string name="empty_walls_body">Add a wall to start measuring this room.</string>
+    <string name="coverage_hint">Read it from the can label.</string>
+    <string name="primer_hint">One coat at 8.0 m2 per litre.</string>
+    <string name="error_opening_fit">Opening does not fit this wall.</string>
+
+    <string name="dialog_add_wall_title">Add a wall</string>
+    <string name="dialog_delete_room_title">Delete this room</string>
+    <string name="dialog_delete_room_body">The room and its walls will be removed from the roster.</string>
+    <string name="dialog_reset_title">Reset defaults</string>
+    <string name="dialog_reset_body">Coverage, coats, texture, units and theme go back to the factory values.</string>
+
+    <string name="state_selected">Selected</string>
+    <string name="state_not_selected">Not selected</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+
+    <string name="cd_settings">Planner settings</string>
+    <string name="cd_save_exit">Save room and go back</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_logo">Paint Coat Planner emblem</string>
+    <string name="cd_home">Planner home</string>
+    <string name="cd_paint_can">Paint can</string>
+    <string name="cd_roller">Paint roller</string>
+    <string name="cd_brush">Paint brush</string>
+    <string name="cd_swatches">Colour swatch deck</string>
+    <string name="cd_tape">Masking tape</string>
+    <string name="cd_decrease">Decrease</string>
+    <string name="cd_increase">Increase</string>
+    <string name="cd_edit_room">Open wall builder</string>
+    <string name="cd_delete_room">Delete room</string>
+    <string name="cd_remove_wall">Remove wall</string>
+
+    <string name="fmt_area_metric">%1$s m2</string>
+    <string name="fmt_area_imperial">%1$s sq ft</string>
+    <string name="fmt_length_metric">%1$s m</string>
+    <string name="fmt_length_imperial">%1$s ft</string>
+    <string name="fmt_volume_metric">%1$s L</string>
+    <string name="fmt_volume_imperial">%1$s gal</string>
+    <string name="fmt_coverage_metric">%1$s m2/L</string>
+    <string name="fmt_coverage_imperial">%1$s sq ft/gal</string>
+    <string name="fmt_hours">%1$s h</string>
+    <string name="fmt_hours_estimated">%1$s h estimated</string>
+    <string name="fmt_can">%1$d x %2$s L</string>
+    <string name="fmt_spare">%1$s L spare</string>
+    <string name="fmt_wall_caption">%1$s x %2$s · %3$s - %4$s = %5$s</string>
+    <string name="fmt_wall_plain">%1$s x %2$s · %3$s</string>
+    <string name="fmt_texture_factor">x %1$s paint demand</string>
+    <string name="fmt_step">%1$d / %2$d</string>
+    <string name="fmt_across_rooms">ACROSS %1$d ROOMS</string>
+    <string name="fmt_total_for">TOTAL FOR %1$s</string>
+    <string name="fmt_estimated">ESTIMATED %1$s</string>
+    <string name="fmt_badge_count">x %1$d</string>
+    <string name="fmt_preset">%1$s %2$s x %3$s</string>
+    <string name="fmt_wall_index">WALL %1$d</string>
+    <string name="fmt_cd_wall">Wall %1$d, %2$s by %3$s, %4$d openings</string>
+    <string name="fmt_cd_room">%1$s, net area %2$s, %3$s of paint</string>
+    <string name="fmt_cd_gauge">Paint can filled to %1$s</string>
+    <string name="fmt_coats">%1$d</string>
+</resources>
